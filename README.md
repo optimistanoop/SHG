@@ -26,7 +26,7 @@ SHG stands for self help group, which is mainly operated in indian rural areas.
 * your resistered friend can also use this app to add his expenses, and will be simplified to the balance amount between friends.
 * All friend can see their real time balance and all expenses in any group and friend view. 
 
-### Here is my [Capstone Stage-1- Design](https://github.com/optimistanoop/Capstone-Project) repo. 
+### Here is [Design](https://github.com/optimistanoop/SHG/tree/master/Design-Prototype) docs and prototypes. 
 
 ### The following **required** functionality is completed:
 
