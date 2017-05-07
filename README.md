@@ -28,7 +28,7 @@ SHG stands for self help group, which is mainly operated in indian rural areas.
 
 ### Here is my [Capstone Stage-1- Design](https://github.com/optimistanoop/Capstone-Project) repo. 
 
-###The following **required** functionality is completed:
+### The following **required** functionality is completed:
 
 * User can **manage expenses**.
 * User can **manage friends**.
