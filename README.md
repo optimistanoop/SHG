@@ -1,7 +1,7 @@
 
 # SHG
 SHG stands for self help group, which is mainly operated in indian rural areas.
-**SHG** is an android app that allows a user to manage expenses, groups and calculate interest. The app utilizes [Splitwise REST API](http://dev.splitwise.com/).
+**SHG** is an android app that allows a user to manage expenses, groups and calculate interest. The app uses [Splitwise REST API](http://dev.splitwise.com/).
 
 ## This app requires API key
 #### To get API key, follow these steps.
